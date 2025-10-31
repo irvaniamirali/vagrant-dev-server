@@ -15,7 +15,7 @@ A simple Vagrant setup for development.
 ```bash
 vagrant up
 vagrant ssh
-`
+```
 
 After logging in, your projects folder is available at `/home/vagrant/projects`.
 
